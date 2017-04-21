@@ -2,5 +2,5 @@ language: java
 jdk: 
   - oraclejdk8
   - oraclejdk7
-  - openjdk6
-#this is a comment
+  
+#this is a https://github.com/integrations/travis-ci/installcomment
